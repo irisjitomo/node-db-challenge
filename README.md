@@ -40,11 +40,20 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+SQL is what is used to perform CRUD requests in the form of sql statements
+
 - [ ] Why do tables need a `primary key`?
+
+it uniquely ids that table
+
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+foreign key
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+a table in the middle in order to join the two tables
 
 ## Minimum Viable Product
 
